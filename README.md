@@ -6,6 +6,7 @@ I make stuff mostly in javascript when im bored
 
 ### Languages mostly used
 
+- 🏷️ Node.js
 - 🏷️ JavaScript
 - 🏷️ HTML
 - 🏷️ CSS
