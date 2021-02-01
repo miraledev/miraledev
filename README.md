@@ -1,6 +1,6 @@
 <img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
 
-# mirale -- the best hacker to ever exist
+# mirale -- competitive roblox player 2021
 
 I make stuff mostly in javascript when im bored, mostly for discord rn. I'm also learning about pentesting!
 
