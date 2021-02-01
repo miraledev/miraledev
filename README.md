@@ -2,7 +2,7 @@
 
 # mirale -- the best hacker to ever exist
 
-I make stuff mostly in javascript when im bored, mostly for discord rn
+I make stuff mostly in javascript when im bored, mostly for discord rn. I'm also learning about pentesting!
 
 ### Languages mostly used
 
