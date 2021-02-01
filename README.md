@@ -2,11 +2,10 @@
 
 # Welcome to the profile fam
 
-I make stuff mostly in javascript when im bored
+I make stuff mostly in javascript when im bored, mostly for discord rn
 
 ### Languages mostly used
 
-- 🏷️ Node.js
 - 🏷️ JavaScript
 - 🏷️ HTML
 - 🏷️ CSS
