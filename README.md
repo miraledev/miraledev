@@ -2,7 +2,7 @@
 
 # mirale -- competitive roblox player 2021
 
-I make stuff mostly in javascript when im bored, mostly for discord rn. I'm also learning about pentesting!
+js fiend
 
 ### Languages mostly used
 
